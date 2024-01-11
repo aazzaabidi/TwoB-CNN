@@ -53,8 +53,10 @@ python main.py /path/to/dataset 1 -m 1D -l pxl -s mean -w 0.5 -out /output/path 
 The trained models and evaluation results are stored in the specified output path.
 
 ### License
-This code is released under the 
-    @article{Abidi2022,
+This code is released under the MIT License.
+
+### Citation
+If you use this code in your research, please cite our paper     @article{Abidi2022,
     author = {A. Abidi, A. Ben Abbes, Y. J. E. Gbodjo, D. Ienco and I. R. Farah},
     title = {Combining pixel- and object-level information for land-cover mapping using time-series of Sentinel-2 satellite data},
     journal = {Remote Sensing Letters},
@@ -67,9 +69,7 @@ This code is released under the
     URL = { https://doi.org/10.1080/2150704X.2021.2001071},
     eprint = { https://doi.org/10.1080/2150704X.2021.2001071}
 }
-
-### Citation
-If you use this code in your research, please cite our paper [insert citation here].
+.
 
 ### Acknowledgments
 This research was supported by [insert funding information here].
