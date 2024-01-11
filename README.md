@@ -69,9 +69,4 @@ If you use this code in your research, please cite our paper     @article{Abidi2
     URL = { https://doi.org/10.1080/2150704X.2021.2001071},
     eprint = { https://doi.org/10.1080/2150704X.2021.2001071}
 }
-.
 
-### Acknowledgments
-This research was supported by [insert funding information here].
-
-Feel free to reach out for any questions or issues. Happy coding!
