@@ -7,6 +7,10 @@
 ### Overview
 This repository contains code for multivariate SITS classification using various models and levels of feature extraction. The code facilitates training, validation, and testing of the models, allowing for experimentation with different configurations.
 
+[cnn1d.pdf](https://github.com/aazzaabidi/TwoB-CNN/files/14377229/cnn1d.pdf)
+
+
+
 ### Requirements
 - Python 3.x
 - NumPy
