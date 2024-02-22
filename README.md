@@ -7,7 +7,8 @@
 ### Overview
 This repository contains code for multivariate SITS classification using various models and levels of feature extraction. The code facilitates training, validation, and testing of the models, allowing for experimentation with different configurations.
 
-[cnn1d.pdf](https://github.com/aazzaabidi/TwoB-CNN/files/14377229/cnn1d.pdf)
+![Screenshot-103](https://github.com/aazzaabidi/TwoB-CNN/assets/73762433/3d850a9a-d613-4eb1-9322-3cf36737931d)
+
 
 
 
